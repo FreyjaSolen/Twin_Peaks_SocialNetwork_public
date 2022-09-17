@@ -1,0 +1,18 @@
+.post
+{
+  background-color: rgb(155, 128, 96);
+  color: rgb(100, 22, 3);
+}
+
+.post.active
+{
+  grid-area: divcontent;
+  background-color: rgb(175, 141, 93);
+  color: rgb(100, 22, 3);
+}
+
+.post img
+{
+    width: 60px;
+    border-radius: 30px;
+}
